@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/little-task-homerwork/static/css/main.b8ca9ae1.css",
+    "main.js": "/little-task-homerwork/static/js/main.5f25250d.js",
+    "static/js/787.66cb4309.chunk.js": "/little-task-homerwork/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/little-task-homerwork/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/little-task-homerwork/index.html",
+    "main.b8ca9ae1.css.map": "/little-task-homerwork/static/css/main.b8ca9ae1.css.map",
+    "main.5f25250d.js.map": "/little-task-homerwork/static/js/main.5f25250d.js.map",
+    "787.66cb4309.chunk.js.map": "/little-task-homerwork/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8ca9ae1.css",
+    "static/js/main.5f25250d.js"
+  ]
+}
