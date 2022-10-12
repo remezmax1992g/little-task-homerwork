@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/little-task-homerwork/static/css/main.92897480.css",
-    "main.js": "/little-task-homerwork/static/js/main.1ff4af0d.js",
+    "main.js": "/little-task-homerwork/static/js/main.49c4993c.js",
     "static/js/787.66cb4309.chunk.js": "/little-task-homerwork/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/little-task-homerwork/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/little-task-homerwork/index.html",
     "main.92897480.css.map": "/little-task-homerwork/static/css/main.92897480.css.map",
-    "main.1ff4af0d.js.map": "/little-task-homerwork/static/js/main.1ff4af0d.js.map",
+    "main.49c4993c.js.map": "/little-task-homerwork/static/js/main.49c4993c.js.map",
     "787.66cb4309.chunk.js.map": "/little-task-homerwork/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92897480.css",
-    "static/js/main.1ff4af0d.js"
+    "static/js/main.49c4993c.js"
   ]
 }
