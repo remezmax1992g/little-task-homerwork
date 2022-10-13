@@ -5,27 +5,46 @@
 }
 
 .error {
+    color: crimson;
+    height: 20px;
+    margin-left: 10px;
+    font-weight: bold;
 }
 
 .input {
+    margin: 10px;
+    background-color: #003300;
+    color: #99FF99;
 }
 
 .input:focus {
+    outline: none;
+    border: #99FF99 2px solid;
 }
 
 .errorInput {
+    border: #cc0000 2px solid;
+    outline: none;
 }
 
 .button {
+    margin: 10px;
+    width: 50px;
+    background-color: #003300;
+    color: #99FF99;
+    outline: none;
 }
 
 .button:focus {
+    outline: #99FF99 solid 3px;
 }
 
 .button:active {
+    background: #99FF99;
 }
 
 .button:disabled {
+    color: #005500;
 }
 
 .text {
